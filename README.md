@@ -33,7 +33,11 @@ Task:
 3.  Run the service + performance test using docker compose and visualize the results in Graphana 
 4.  Run the service + performance test in Kubernetes and visualize the results in Graphana 
 5.  Create a performance test report with explanation of your thoughts
-6.  Please use your imagination to implement the solution one such example can be to create a trial account in AWS/GCP and use terraform to allocate infrastructure and run the tests in a EC2 instance :) 
+Please use your imagination to implement the solution one such example can be to create a trial account in AWS/GCP and use terraform to allocate infrastructure and run the tests in a EC2 instance :) 
+
+Feel free to change the source code if that is necessary for you to show different use cases one such eg: using a external database container to save the data :)
+
+Also feel free to write a blog post with architecture diagram of the solution :)
 
 
 | Quick reference | README |
