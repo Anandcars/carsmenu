@@ -1,0 +1,13 @@
+{
+	"name": "Volvocars Library API",
+	"version": "1.0.0",
+	"description": "VCC car library API",
+	"main": "script.js",
+	"scripts": {
+		"start": "nodemon script.js"
+	},
+	"dependencies": {
+		"express": "^4.16.4",
+		"joi": "^13.1.0"
+	}
+}
