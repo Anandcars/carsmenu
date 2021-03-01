@@ -1,5 +1,5 @@
 {
-	"name": "Volvocars Library API",
+	"name": "volvo_cars_library_api",
 	"version": "1.0.0",
 	"description": "VCC car library API",
 	"main": "script.js",
