@@ -42,5 +42,6 @@ Task:
 | Express.js | https://expressjs.com/en/starter/hello-world.html|
 | Graphana + InfluxDB |https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3|
 |Kubernetes| https://cloud.google.com/solutions/distributed-load-testing-using-gke
+|K6io| https://k6.io/open-source
 
 
