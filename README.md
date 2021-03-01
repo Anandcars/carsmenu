@@ -1,12 +1,14 @@
 # carsmenu
 Building REST API using Node.js
-Here, we will be creating a simple CRUD REST application for Volvocars Library Management using Node.js and Express.js. 
+Here, you will be creating a simple CRUD REST application for Volvocars Library Management using Node.js and Express.js. 
 
 To build this application, you will need to install the following:
+
 Node.js
 Express.js
 Joi
 nodemon (Node Monitor)
+
 
 ## Install dependencies & Run service
 ```sh
@@ -16,8 +18,29 @@ npm install
 npm start
 ```
 
+
+The application will run in the  port 8080 
+
+```sh
+
+http://localhost:8080/api/cars
+
+```
+
+Task: 
+1.  Run the service
+2.  Use K6io as the performance testing tool and run tests for the service (GET, POST, PUT, DELETE)
+3.  Run the service + performance test using docker compose and visualize the results in Graphana 
+4.  Run the service + performance test in Kubernetes and visualize the results in Graphana 
+5.  Create a performance test report with explanation of your thoughts
+6.  Please use your imagination to implement the solution one such example can be to create a trial account in AWS/GCP and use terraform to allocate infrastructure and run the tests in a EC2 instance :) 
+
+
 | Quick reference | README |
 | ------ | ------ |
 | Nodemon | https://www.digitalocean.com/community/tutorials/workflow-nodemon|
 | Express.js | https://expressjs.com/en/starter/hello-world.html|
+| Graphana + InfluxDB |https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3|
+|Kubernetes| https://cloud.google.com/solutions/distributed-load-testing-using-gke
+
 
