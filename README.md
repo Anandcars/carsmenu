@@ -1,8 +1,9 @@
 # carsmenu
-Building REST API using Node.js
-Here, you will be creating a simple CRUD REST application for Volvocars Library Management using Node.js and Express.js. 
+The purpose of this project is to performance test the included REST API using Node.js
 
-To build this application, you will need to install the following:
+Here, you will be testing a simple CRUD REST application for Volvocars Library Management using Node.js and Express.js. 
+
+To build the application, you will need to install the following:
 
 Node.js
 Express.js
